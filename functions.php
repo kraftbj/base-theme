@@ -28,5 +28,5 @@ function kraft_footer_creds_text() {
 	echo 'Copyright &copy; ';
 	echo date(Y);
 	echo ' &middot; Development by <a href="http://coffeaweb.com">Coffea Web Services &middot; Built on <a href="http://wordpress.org">WordPress</a> &amp; <a href="http://brandonkraft.com/go/studiopress/">Genesis</a>.';
-	echo '</p></div>':
+	echo '</p></div>';
 }
