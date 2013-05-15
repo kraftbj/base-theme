@@ -3,7 +3,7 @@
 include_once( get_template_directory() . '/lib/init.php' );
 
 /** Child theme (do not remove) */
-define( 'CHILD_THEME_NAME', 'Sample Child Theme' );
+define( 'CHILD_THEME_NAME', 'Your Custom Theme' );
 define( 'CHILD_THEME_URL', 'http://www.coffeaweb.com' );
 
 /** Add Viewport meta tag for mobile browsers */

@@ -1,17 +1,17 @@
 /*
-    Theme Name: Custom Child Theme
+    Theme Name: Your Custom Theme
 	Theme URI: http://www.coffeaweb.com
 	Description: A customized Genesis theme for your organization.
     Author: Brandon Kraft (Coffea Web Services)
     Author URI: http://www.coffeaweb.com
- 
+
     Version: 1.0
- 
-    Tags: 
- 
+
+    Tags:
+
     Template: genesis
     Template Version: 1.8
- 
+
 	License: GNU General Public License v2.0 (or later)
 	License URI: http://www.opensource.org/licenses/gpl-license.php
 */
@@ -1406,7 +1406,7 @@ div.gform_wrapper .gform_footer {
 	#header .menu li ul a {
 		width: 100%;
 	}
-	
+
 	.five-sixths,
 	.four-fifths,
 	.four-sixths,
@@ -1489,7 +1489,7 @@ div.gform_wrapper .gform_footer {
 		width: 100%;
 		margin: 0 auto;
 	}
-	
+
 	.archive-page,
 	.content-sidebar #content,
 	.content-sidebar-sidebar #content,
@@ -1518,7 +1518,7 @@ div.gform_wrapper .gform_footer {
 		box-shadow: none;
 		margin: 0;
 	}
-	
+
 	#description,
 	#footer .creds,
 	#footer .gototop,
@@ -1566,7 +1566,7 @@ div.gform_wrapper .gform_footer {
 	.taxonomy-description {
 		margin: 0 20px 20px;
 	}
-	
+
 	#content {
 		padding: 0;
 	}
@@ -1581,7 +1581,7 @@ div.gform_wrapper .gform_footer {
 	.author-box {
 		margin: 0 20px 40px;
 	}
-	
+
 	#footer-widgets .widget {
 		padding: 20px 20px 0;
 	}
